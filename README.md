@@ -1,14 +1,12 @@
 # Odyssey Lift-off V (Client): Road to production
 
-Welcome to the companion app of Odyssey Lift-off V (client)! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part5), Apollo's learning platform.
+Welcome to the companion app of Odyssey Lift-off V (client)!
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
-
-You can [find the server counterpart here](https://github.com/apollographql/odyssey-lift-off-part5-server).
+You can my [find the server counterpart here](https://github.com/JJLindsey/odyssey-lift-off-part5-server).
 
 ## How to use this repo
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
+This repo is my final application for the Apollo-GraphQL Apollo Graph Developer - Associate Certification
 
 This repo is the starting point of our React client application.
 
@@ -19,14 +17,33 @@ To get started:
 
 This will start the React application and open up `localhost:3000` in your web browser.
 
-> Note that the client will show an `ERROR: Failed to fetch` message unless you have the [counterpart GraphQL server](https://github.com/apollographql/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
+> Note that the client will show an `ERROR: Failed to fetch` message unless you have the [my counterpart GraphQL server](https://github.com/JJLindsey/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
 
-To check the **final** stage of the client, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
+## Skills assessed from the certification
+#### Prerequisites
+* JavaScript
+* React
 
-```bash
-git checkout final
-```
+#### GraphQL & Apollo basics
+* Understand the GraphQL & Apollo ecosystem
+* Design a basic schema
+* Create an Apollo Server and connect to a REST data source
+* Implement Apollo Client library in a React app, build a basic GraphQL query and display results
 
-## Getting Help
+#### Resolvers, arguments, mutations
+* Implement resolvers
+* Use arguments in queries and resolvers
+* Add a mutation to the schema
+* Explain the best practices for shaping a mutation response and handling errors
+* Use the useMutation hook to send a mutation to the server
+#### Production
+* Go from a dev graph to a deployed graph
+* Configure Apollo Server and Client for production
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+### Screenshot
+
+<img src="./public/ApolloClientScreen.png" alt="app screenshot" height=250>
+
+### Certification Information
+
+For certification information please see ApolloGraphQL: [Apollo Graph Developer Assoc Certification](https://odyssey.apollographql.com/certifications/apollo-graph-associate).
