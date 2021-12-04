@@ -2,7 +2,7 @@
 
 Welcome to the companion app of Odyssey Lift-off V (client)!
 
-You can my [find the server counterpart here](https://github.com/JJLindsey/odyssey-lift-off-part5-server).
+You can [find my server counterpart here](https://github.com/JJLindsey/odyssey-lift-off-part5-server).
 
 ## How to use this repo
 
@@ -17,7 +17,7 @@ To get started:
 
 This will start the React application and open up `localhost:3000` in your web browser.
 
-> Note that the client will show an `ERROR: Failed to fetch` message unless you have the [my counterpart GraphQL server](https://github.com/JJLindsey/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
+> Note that the client will show an `ERROR: Failed to fetch` message unless you have [my counterpart GraphQL server](https://github.com/JJLindsey/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
 
 ## Skills assessed from the certification
 #### Prerequisites
